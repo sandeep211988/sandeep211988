@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: I am Sandeep Kumar
 🔧 I'm working on<br>Making AI-powered cars safer — the chips and software that make the decisions when something goes wrong at high speed or high voltage.<br><br>🤝 I want to work together on<br>Anything along the way of safety, ai, and hardware. If you're building tools to help engineers design safer systems, I'm always open to talking.<br><br>🆘 I need a little help with<br>How do you verify that an AI system fails safely – this is an unsolved problem and the industry is figuring it out as we go.<br><br>📚 I'm studying right now<br>How the rules around AI safety in cars are written — and what they actually mean for the engineers building the hardware underneath.<br><br>💬 Ask me for<br>Electric vehicles, Automotive safety standards, How chips are designed to fail safely, Why your car has more safety certification paperwork than your house.
 
 
